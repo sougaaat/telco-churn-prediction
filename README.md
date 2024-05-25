@@ -66,5 +66,5 @@ This project is unlicensed.
 
 Feel free to reach out for any queries or collaborations:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [to.sougatdey@gmail.com](mailto:to.sougatdey@gmail.com)
 - **LinkedIn:** [Sougat Dey](https://www.linkedin.com/in/sougat-dey/)
