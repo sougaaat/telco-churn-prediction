@@ -4,6 +4,8 @@
 
 This project focuses on predicting customer churn for a business, helping to proactively identify and retain at-risk customers. The project aims to develop a robust model that prioritizes recall to maximize customer retention and ensure long-term business success.
 
+Dataset on <a href= "https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset"> Kaggle</a>.
+
 ## Project Workflow
 
 1. **Exploratory Data Analysis (EDA)**
